@@ -1,0 +1,13 @@
+{
+    "name": "Iron Man",
+    "editor": "VIM",
+    "superPower": "Blaster",
+    "active": true,
+    "icon": "link to slack hosted pic",
+    "email": "ironman@ironman.com",
+    "job": "Googs",
+    "location": "River by the sea",
+    "devStack": ["Linux", "C++", "node", "html", "css"],
+    "keyboard": "stock",
+    "osPreference": "Linux"
+}
