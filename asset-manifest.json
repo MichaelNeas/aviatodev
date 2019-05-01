@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/aviatodev/static/css/main.4b738920.chunk.css",
-    "main.js": "/aviatodev/static/js/main.71a439c1.chunk.js",
-    "main.js.map": "/aviatodev/static/js/main.71a439c1.chunk.js.map",
-    "runtime~main.js": "/aviatodev/static/js/runtime~main.4f9b7b57.js",
-    "runtime~main.js.map": "/aviatodev/static/js/runtime~main.4f9b7b57.js.map",
-    "static/js/2.6efc73d3.chunk.js": "/aviatodev/static/js/2.6efc73d3.chunk.js",
-    "static/js/2.6efc73d3.chunk.js.map": "/aviatodev/static/js/2.6efc73d3.chunk.js.map",
-    "index.html": "/aviatodev/index.html",
-    "precache-manifest.e689b906020f5819669cf4c0b695b920.js": "/aviatodev/precache-manifest.e689b906020f5819669cf4c0b695b920.js",
-    "service-worker.js": "/aviatodev/service-worker.js",
-    "static/css/main.4b738920.chunk.css.map": "/aviatodev/static/css/main.4b738920.chunk.css.map",
-    "static/media/logo.svg": "/aviatodev/static/media/logo.3c1f915b.svg"
+    "main.css": "/static/css/main.4b738920.chunk.css",
+    "main.js": "/static/js/main.6b9ca65d.chunk.js",
+    "main.js.map": "/static/js/main.6b9ca65d.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e24a9c6f32a1a7ec4298dae4293c1a8e.js": "/precache-manifest.e24a9c6f32a1a7ec4298dae4293c1a8e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4b738920.chunk.css.map": "/static/css/main.4b738920.chunk.css.map",
+    "static/media/logo.svg": "/static/media/logo.3c1f915b.svg"
   }
 }
