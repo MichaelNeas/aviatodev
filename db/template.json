@@ -1,6 +1,6 @@
 {
     "active": true,
-    "dateJoined": "2014-01-01T23:28:56.782Z"
+    "dateJoined": "2014-01-01T23:28:56.782Z",
     "devStack": ["Linux", "C++", "node", "html", "css"],
     "editor": "VIM",
     "email": "ironman@ironman.com",
@@ -10,5 +10,5 @@
     "location": "River by the sea",
     "name": "Iron Man",
     "osPreference": "Linux",
-    "superPower": "Blaster"  
+    "superPowerChoice": "Blaster"  
 }

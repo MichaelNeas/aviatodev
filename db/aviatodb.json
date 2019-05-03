@@ -1,0 +1,15 @@
+[
+    {
+        "active": true,
+        "devStack": ["macOS", "Node", "SQL", "Swift"],
+        "editor": "XCode & VSCode",
+        "email": "michael.r.neas@gmail.com",
+        "icon": "https://ca.slack-edge.com/T1HG9KLQJ-U1HGE1R8E-8c0410ed74e7-72",
+        "job": "Software Engineer @ Rocket Insights",
+        "keyboard": "HyperX - Alloy FPS w/ Cherry MX Blue",
+        "location": "Boston",
+        "name": "Mike Neas",
+        "osPreference": "macOS",
+        "superPowerChoice": "Let me flyyy"  
+    }
+]
