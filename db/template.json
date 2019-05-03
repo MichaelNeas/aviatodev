@@ -1,13 +1,14 @@
 {
-    "name": "Iron Man",
-    "editor": "VIM",
-    "superPower": "Blaster",
     "active": true,
-    "icon": "link to slack hosted pic",
-    "email": "ironman@ironman.com",
-    "job": "Googs",
-    "location": "River by the sea",
+    "dateJoined": "2014-01-01T23:28:56.782Z"
     "devStack": ["Linux", "C++", "node", "html", "css"],
+    "editor": "VIM",
+    "email": "ironman@ironman.com",
+    "icon": "link to slack hosted pic",
+    "job": "Googs",
     "keyboard": "stock",
-    "osPreference": "Linux"
+    "location": "River by the sea",
+    "name": "Iron Man",
+    "osPreference": "Linux",
+    "superPower": "Blaster"  
 }
