@@ -141,17 +141,17 @@
     },
     {
         "active": true,
-        "devStack": [],
+        "devStack": ["Python"],
         "displayName": "tjcoley30",
         "editor": "Excel",
         "email": "tjcoley30@gmail.com",
         "icon": "https://ca.slack-edge.com/T1HG9KLQJ-U3QSERX98-848ea6e9460b-200",
         "job": "Director of Technology @ Gatti HR",
-        "keyboard": "",
+        "keyboard": "razer anasi",
         "location": "Boston",
         "name": "Trevor Coley",
         "osPreference": "Windows",
-        "superPowerChoice": "Operations guru, sees thru walls"
+        "superPowerChoice": "Turn all metal like Colossus"
     },
     {
         "active": true,
@@ -743,16 +743,16 @@
     },
     {
         "active": true,
-        "devStack": [],
+        "devStack": ["Java"],
         "displayName": "Kirk Zimmer",
-        "editor": "Eclipse",
+        "editor": "VS man",
         "email": "kzimmer655@gmail.com",
         "icon": "https://ca.slack-edge.com/T1HG9KLQJ-UHMVCDQBX-a1996ac25c1c-200",
         "job": "Prepping for the big leagues",
         "keyboard": "",
         "location": "Jersey",
         "name": "Kirk Zimmer",
-        "osPreference": "Windows",
+        "osPreference": "Ubunter",
         "superPowerChoice": "Dodging Buses"  
     },
     {
