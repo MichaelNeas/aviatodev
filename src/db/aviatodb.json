@@ -701,17 +701,17 @@
     },
     {
         "active": true,
-        "devStack": [],
+        "devStack": ["Linux","C"],
         "displayName": "",
         "editor": "Vim?",
         "email": "chucktdriscoll@gmail.com",
         "icon": "https://ca.slack-edge.com/T1HG9KLQJ-UH24C0U4W-8b27fa624fd0-200",
         "job": "Savant QA",
-        "keyboard": "",
+        "keyboard": "OLKB Preonic with Cherry Browns",
         "location": "Cape Cod",
         "name": "Brumpo Tungus",
         "osPreference": "Linux",
-        "superPowerChoice": "Creative ways to make people go disappear"  
+        "superPowerChoice": "Lord of the clicky keys"
     },
     {
         "active": true,
