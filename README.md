@@ -1,6 +1,4 @@
-# Team Huckit
-
-Domain: aviato.dev
+# Aviatodev Slack Group Site
 
 Deploy new code to website: `npm run add-domain && deploy`
 
