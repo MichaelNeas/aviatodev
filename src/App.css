@@ -33,11 +33,26 @@
   background-color: #81cfe0;
   margin-top: 5px;
   margin-bottom: 5px;
+  position: relative;
+}
+
+.titleNameContainer {
+  position: absolute;
+  bottom: 0px;
+  background-color: rgba(255, 255, 255, 0.7);
+  width: 100%;
+}
+
+.tileName {
+  position: relative;
+  margin-bottom: 5px;
+  margin-top: 10px;
+  z-index:1;
 }
 
 .grid {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   flex-wrap: wrap;
 }
 

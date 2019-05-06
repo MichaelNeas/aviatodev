@@ -9,7 +9,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to Huckit</h1>
+          <h1 className="App-title">Welcome to AviatoDev</h1>
         </header>
         <Grid></Grid>
       </div>
