@@ -157,15 +157,15 @@
         "active": true,
         "devStack": ["Windows", "Common Lisp"],
         "displayName": "physpi",
-        "editor": "Racket",
+        "editor": "emacs/vim",
         "email": "rmbibeault@gmail.com",
         "icon": "https://ca.slack-edge.com/T1HG9KLQJ-U41H3P4JE-0b0fb83447a0-200",
-        "job": "Windows installer developer @ Startup",
-        "keyboard": "",
+        "job": "Backend Developer",
+        "keyboard": "HHKB",
         "location": "Boston",
         "name": "Richard Bibeault",
-        "osPreference": "Windows",
-        "superPowerChoice": "Dodge and weiving on the KTM 1290 Super Duke R"  
+        "osPreference": "macOS",
+        "superPowerChoice": "I just want to be Iron Man"  
     },
     {
         "active": true,
