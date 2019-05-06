@@ -43,6 +43,31 @@
   margin-bottom: 5px;
 }
 
+.tileOverlay {
+  width: 100%;
+  height: 100%;
+  background-color: #81cfe0;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.overlayText {
+  text-align: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.tileWithOverlay {
+  opacity: .9;
+  transition: opacity 1s;
+}
+
+.tileWithoutOverlay{
+  opacity: 0;
+  transition: opacity 1s;
+}
+
 .titleNameContainer {
   display: flex;
   align-items: center;
