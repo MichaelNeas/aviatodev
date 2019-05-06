@@ -4,7 +4,9 @@
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+  height: 70%;
+  position: absolute;
+  left: 20px;
 }
 
 .App-header {
@@ -12,10 +14,14 @@
   height: 150px;
   padding: 20px;
   color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
 }
 
 .App-title {
-  font-size: 1.5em;
+  font-size: 10em;
 }
 
 .App-intro {
@@ -31,22 +37,36 @@
   width: 300px;
   height: 300px;
   background-color: #81cfe0;
+  position: relative;
+  margin: 0 auto;
   margin-top: 5px;
   margin-bottom: 5px;
-  position: relative;
 }
 
 .titleNameContainer {
+  display: flex;
+  align-items: center;
   position: absolute;
   bottom: 0px;
   background-color: rgba(255, 255, 255, 0.7);
   width: 100%;
 }
 
+.activeIconLeft {
+  width: 10%;
+}
+
+.activeIconRight {
+  height: 12px;
+  width: 12px;
+  border-radius: 50%;
+}
+
 .tileName {
   position: relative;
   margin-bottom: 5px;
   margin-top: 10px;
+  width: 80%;
   z-index:1;
 }
 
@@ -54,10 +74,22 @@
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
+  background: azure;
 }
 
 @media (max-width: 400px) {
   .grid {
     display: block;
+  }
+}
+
+@media (max-width: 1200px) {
+  .App-logo {
+    display: none;
+  }
+}
+@media (max-width: 850px) {
+  .App-title {
+    font-size: 3em;
   }
 }
