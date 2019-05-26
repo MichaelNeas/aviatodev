@@ -810,5 +810,61 @@
         "name": "thomas",
         "osPreference": "macOS",
         "superPowerChoice": "Poop avoidance"
+    },
+    {
+        "active": false,
+        "devStack": [],
+        "displayName": "",
+        "editor": "?",
+        "email": "ndavis@my.uri.edu",
+        "icon": "https://ca.slack-edge.com/T1HG9KLQJ-UJPAHNR0W-g239b3a5fa24-200",
+        "job": "GE",
+        "keyboard": "",
+        "location": "Providence",
+        "name": "Noah",
+        "osPreference": "windows",
+        "superPowerChoice": "Space Invaders king"
+    },
+    {
+        "active": true,
+        "devStack": [],
+        "displayName": "",
+        "editor": "Android Studio",
+        "email": "tylerbennett215@gmail.com",
+        "icon": "https://ca.slack-edge.com/T1HG9KLQJ-UJR1415ND-ga7a3ea8a94f-200",
+        "job": "Android Dev @ Savant",
+        "keyboard": "",
+        "location": "Boston",
+        "name": "Tyler Bennett",
+        "osPreference": "android",
+        "superPowerChoice": "Leading aliens through hardships"
+    },
+    {
+        "active": true,
+        "devStack": [],
+        "displayName": "",
+        "editor": "?",
+        "email": "crzimmer@email.sc.edu",
+        "icon": "https://ca.slack-edge.com/T1HG9KLQJ-UJTJPK2M6-e3fb30b3b069-200",
+        "job": "Dev in training",
+        "keyboard": "",
+        "location": "Jersey",
+        "name": "Christina Zimmer",
+        "osPreference": "macOS",
+        "superPowerChoice": "Better than Kirk"
+    },
+    {
+        "active": true,
+        "devStack": [],
+        "displayName": "Matt DiDomenico",
+        "editor": "VSCode",
+        "email": "babsonmatt@gmail.com",
+        "icon": "https://ca.slack-edge.com/T1HG9KLQJ-UJXFZDLSU-g4520ffbf325-200",
+        "job": "React Dev @ Rocket",
+        "keyboard": "",
+        "location": "Boston",
+        "name": "Matt DiDomenico",
+        "osPreference": "macOS",
+        "superPowerChoice": "Creator of ideas"
     }
 ]
