@@ -126,7 +126,7 @@
         "superPowerChoice": "Green clouds"  
     },
     {
-        "active": false,
+        "active": true,
         "devStack": [],
         "displayName": "mikemorton",
         "editor": "VSCode?",
@@ -381,7 +381,7 @@
         "active": true,
         "devStack": [],
         "displayName": "",
-        "editor": "IntelliJ",
+        "editor": "Cider",
         "email": "lee.painton@gmail.com",
         "icon": "https://ca.slack-edge.com/T1HG9KLQJ-U78H0HHPG-c511ce3b13a1-200",
         "job": "SRE @ Google",
@@ -504,7 +504,7 @@
         "superPowerChoice": "Looks like Mirage, therefore has mirage powers"  
     },
     {
-        "active": true,
+        "active": false,
         "devStack": ["Java, x86"],
         "displayName": "",
         "editor": "Eclipse",
@@ -630,7 +630,7 @@
         "superPowerChoice": "Not Video Games"  
     },
     {
-        "active": true,
+        "active": false,
         "devStack": [],
         "displayName": "grmartin",
         "editor": "XCode Vim bindings",
@@ -686,7 +686,7 @@
         "superPowerChoice": "Hulking out through barriers"  
     },
     {
-        "active": true,
+        "active": false,
         "devStack": [],
         "displayName": "Charles Woodson",
         "editor": "Android Studio",
@@ -756,7 +756,7 @@
         "superPowerChoice": "Dodging Buses"  
     },
     {
-        "active": true,
+        "active": false,
         "devStack": [],
         "displayName": "",
         "editor": "Android Studio",
@@ -784,7 +784,7 @@
         "superPowerChoice": "Septic cleaning"  
     },
     {
-        "active": true,
+        "active": false,
         "devStack": [],
         "displayName": "Chris Traver",
         "editor": "VSCode",
@@ -798,7 +798,7 @@
         "superPowerChoice": "Render things in other dimensions"  
     },
     {
-        "active": true,
+        "active": false,
         "devStack": [],
         "displayName": "",
         "editor": "VSCode",
@@ -826,7 +826,7 @@
         "superPowerChoice": "Space Invaders king"
     },
     {
-        "active": true,
+        "active": false,
         "devStack": [],
         "displayName": "",
         "editor": "Android Studio",
@@ -840,7 +840,7 @@
         "superPowerChoice": "Leading aliens through hardships"
     },
     {
-        "active": true,
+        "active": false,
         "devStack": [],
         "displayName": "",
         "editor": "?",
@@ -854,7 +854,7 @@
         "superPowerChoice": "Better than Kirk"
     },
     {
-        "active": true,
+        "active": false,
         "devStack": [],
         "displayName": "Matt DiDomenico",
         "editor": "VSCode",
@@ -866,5 +866,117 @@
         "name": "Matt DiDomenico",
         "osPreference": "macOS",
         "superPowerChoice": "Creator of ideas"
+    },
+    {
+        "active": true,
+        "devStack": [],
+        "displayName": "Chris Hall",
+        "editor": "",
+        "email": "chall2009@gmail.com",
+        "icon": "https://ca.slack-edge.com/T1HG9KLQJ-UJXFZDLSU-g4520ffbf325-200",
+        "job": "Product Manager @ Savant",
+        "keyboard": "magic",
+        "location": "Cape Cod",
+        "name": "Chris Hall",
+        "osPreference": "macOS",
+        "superPowerChoice": "Eagle Eye"
+    },
+    {
+        "active": false,
+        "devStack": ["Java"],
+        "displayName": "",
+        "editor": "Eclipse",
+        "email": "Mattdahl3@gmail.com",
+        "icon": "https://ca.slack-edge.com/T1HG9KLQJ-UJXFZDLSU-g4520ffbf325-200",
+        "job": "Staff Consultant @ Arc Lighting",
+        "keyboard": "",
+        "location": "Burlington",
+        "name": "Matt Dahl",
+        "osPreference": "windows",
+        "superPowerChoice": "Roasting Weiners on an Open Fire"
+    },
+    {
+        "active": true,
+        "devStack": [],
+        "displayName": "Grace Gulino",
+        "editor": "",
+        "email": "grace@rocketinsights.com",
+        "icon": "https://ca.slack-edge.com/T1HG9KLQJ-UJXFZDLSU-g4520ffbf325-200",
+        "job": "Rocket",
+        "keyboard": "",
+        "location": "Boston",
+        "name": "Grace Gulino",
+        "osPreference": "macOS",
+        "superPowerChoice": "Makin it rain flavored water"
+    },
+    {
+        "active": true,
+        "devStack": ["C/C++", "Android", "Web Tech"],
+        "displayName": "",
+        "editor": "Visual Studio",
+        "email": "natemartino@protonmail.com",
+        "icon": "https://ca.slack-edge.com/T1HG9KLQJ-UJXFZDLSU-g4520ffbf325-200",
+        "job": "Software Dev @ ARA",
+        "keyboard": "",
+        "location": "North Carolina",
+        "name": "Nathan",
+        "osPreference": "windows",
+        "superPowerChoice": "Mutating Physics"
+    },
+    {
+        "active": false,
+        "devStack": [],
+        "displayName": "James Forsythe",
+        "editor": "",
+        "email": "James.forsythe4@gmail.com",
+        "icon": "https://ca.slack-edge.com/T1HG9KLQJ-UJXFZDLSU-g4520ffbf325-200",
+        "job": "Software Engineer @ modelizeIT Inc",
+        "keyboard": "",
+        "location": "Boston",
+        "name": "James Forsythe",
+        "osPreference": "macOS",
+        "superPowerChoice": "Creator of ideas"
+    },
+    {
+        "active": false,
+        "devStack": ["Common Lisp"],
+        "displayName": "Reid Parisi",
+        "editor": "",
+        "email": "parisireid@gmail.com",
+        "icon": "https://ca.slack-edge.com/T1HG9KLQJ-UJXFZDLSU-g4520ffbf325-200",
+        "job": "Software Intern @ 2ls",
+        "keyboard": "",
+        "location": "St. Louis",
+        "name": "Reid Parisi",
+        "osPreference": "windows",
+        "superPowerChoice": "Solving all richard's problems"
+    },
+    {
+        "active": true,
+        "devStack": ["PHP", "Swift"],
+        "displayName": "",
+        "editor": "VSCode, XCode",
+        "email": "curtiscolly@yahoo.com",
+        "icon": "https://ca.slack-edge.com/T1HG9KLQJ-UJXFZDLSU-g4520ffbf325-200",
+        "job": "",
+        "keyboard": "",
+        "location": "Boston",
+        "name": "Curtis",
+        "osPreference": "macOS",
+        "superPowerChoice": "Throwing his metal card like a ninja star"
+    },
+    {
+        "active": true,
+        "devStack": ["Agnostic"],
+        "displayName": "Argenis De La Rosa",
+        "editor": "XCode",
+        "email": "oftherose91@gmail.com",
+        "icon": "https://ca.slack-edge.com/T1HG9KLQJ-UJXFZDLSU-g4520ffbf325-200",
+        "job": "On the market",
+        "keyboard": "",
+        "location": "Boston",
+        "name": "Argenis De La Rosa",
+        "osPreference": "macOS",
+        "superPowerChoice": "Human Engagement"
     }
 ]
