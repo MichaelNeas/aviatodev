@@ -967,16 +967,44 @@
     },
     {
         "active": true,
-        "devStack": ["Agnostic"],
-        "displayName": "Argenis De La Rosa",
-        "editor": "XCode",
-        "email": "oftherose91@gmail.com",
-        "icon": "http://placekitten.com/200/200",
-        "job": "On the market",
+        "devStack": ["Ruby"],
+        "displayName": "Ben",
+        "editor": "VSCode",
+        "email": "bgricker@gmail.com",
+        "icon": "https://ca.slack-edge.com/T1HG9KLQJ-UNU1EUD7A-0c5073e39df5-200",
+        "job": "",
+        "keyboard": "",
+        "location": "Newburyport",
+        "name": "Ben",
+        "osPreference": "macOS",
+        "superPowerChoice": "Pizza man"
+    },
+    {
+        "active": true,
+        "devStack": ["R", "Swift", "Python"],
+        "displayName": "Josh Cook",
+        "editor": "vim?",
+        "email": "joshuacook0023@gmail.com",
+        "icon": "https://ca.slack-edge.com/T1HG9KLQJ-UPSGQAJCV-g72ebb68de0c-200",
+        "job": "",
         "keyboard": "",
         "location": "Boston",
-        "name": "Argenis De La Rosa",
+        "name": "Josh Cook",
         "osPreference": "macOS",
-        "superPowerChoice": "Human Engagement"
+        "superPowerChoice": "Germination"
+    },
+    {
+        "active": true,
+        "devStack": ["CAD"],
+        "displayName": "",
+        "editor": "CAD",
+        "email": "michaelbush5@gmail.com",
+        "icon": "https://ca.slack-edge.com/T1HG9KLQJ-UPZRAMHU7-g747223d3574-200",
+        "job": "",
+        "keyboard": "",
+        "location": "Cape Cod",
+        "name": "Michael Bush",
+        "osPreference": "windows",
+        "superPowerChoice": "Stealth Camping and Beard bustin"
     }
 ]
