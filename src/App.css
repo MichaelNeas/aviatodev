@@ -1,120 +1,125 @@
 .App {
-  text-align: center;
+	text-align: center;
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 70%;
-  position: absolute;
-  left: 20px;
+	animation: App-logo-spin infinite 20s linear;
+	height: 70%;
+	position: absolute;
+	left: 20px;
 }
 
 .App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: relative;
+	background-color: #222;
+	height: 150px;
+	padding: 20px;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
 }
 
 .App-title {
-  font-size: 10em;
+	font-size: 10em;
 }
 
 .App-intro {
-  font-size: large;
+	font-size: large;
 }
 
 @keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+	from {
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg);
+	}
 }
 
 .tile {
-  width: 300px;
-  height: 300px;
-  background-color: #81cfe0;
-  position: relative;
-  margin: 0 auto;
-  margin-top: 5px;
-  margin-bottom: 5px;
+	width: 300px;
+	height: 300px;
+	background-color: #81cfe0;
+	position: relative;
+	margin: 0 auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
 
 .tileOverlay {
-  width: 100%;
-  height: 100%;
-  background-color: #81cfe0;
-  display: flex;
-  justify-content: left;
-  align-items: center;
+	width: 100%;
+	height: 100%;
+	background-color: #81cfe0;
+	display: flex;
+	justify-content: left;
+	align-items: center;
 }
 
 .overlayText {
-  text-align: left;
-  margin-left: 10px;
-  margin-right: 10px;
+	text-align: left;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 .tileWithOverlay {
-  opacity: .9;
-  transition: opacity 1s;
+	opacity: .9;
+	transition: opacity 1s;
 }
 
-.tileWithoutOverlay{
-  opacity: 0;
-  transition: opacity 1s;
+.tileWithoutOverlay {
+	opacity: 0;
+	transition: opacity 1s;
 }
 
 .titleNameContainer {
-  display: flex;
-  align-items: center;
-  position: absolute;
-  bottom: 0px;
-  background-color: rgba(255, 255, 255, 0.7);
-  width: 100%;
+	display: flex;
+	align-items: center;
+	position: absolute;
+	bottom: 0px;
+	background-color: rgba(255, 255, 255, 0.7);
+	width: 100%;
 }
 
 .activeIconLeft {
-  width: 10%;
+	width: 10%;
 }
 
 .activeIconRight {
-  height: 12px;
-  width: 12px;
-  border-radius: 50%;
+	height: 12px;
+	width: 12px;
+	border-radius: 50%;
 }
 
 .tileName {
-  position: relative;
-  margin-bottom: 5px;
-  margin-top: 10px;
-  width: 80%;
-  z-index:1;
+	position: relative;
+	margin-bottom: 5px;
+	margin-top: 10px;
+	width: 80%;
+	z-index: 1;
 }
 
 .grid {
-  display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
-  background: azure;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	background: azure;
 }
 
 @media (max-width: 400px) {
-  .grid {
-    display: block;
-  }
+	.grid {
+		display: block;
+	}
 }
 
 @media (max-width: 1200px) {
-  .App-logo {
-    display: none;
-  }
+	.App-logo {
+		display: none;
+	}
 }
+
 @media (max-width: 850px) {
-  .App-title {
-    font-size: 3em;
-  }
+	.App-title {
+		font-size: 3em;
+	}
 }
