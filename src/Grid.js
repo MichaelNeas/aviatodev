@@ -23,7 +23,7 @@ var shuffle = function (array) {
 };
 
 class Grid extends Component {
-	createGrid = () => shuffle(jsonDB).map(member => <Tile value={member}></Tile>)
+	createGrid = () => shuffle(jsonDB).map(member => <Tile key={JSON.stringify(member)} value={member}></Tile>)
 
 	render() {
 		return (
