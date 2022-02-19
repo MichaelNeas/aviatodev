@@ -2,4 +2,4 @@
 
 Deploy new code to website: `yarn deploy`
 
-#### EST. June 16th, 2016
+#### June 16th, 2016 - Feb 19, 2022
